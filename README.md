@@ -1,6 +1,6 @@
 # TritonNeuroTech-EMG-Prosthetics
 
-# Collaborators (Add your name and GitHub user):
+# Collaborators:
 - Enrique Aranda - earanda4
 - Skye Belcher - skyebel
 - Peter Little - PeterLittle670
