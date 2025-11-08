@@ -13,5 +13,5 @@
 - Siddhant Gulati - Sid6154
 - Rishab Kolan - rkolan-alt
 # Links
-
-
+[Basic Content Guide](https://docs.google.com/document/d/1KJiq6qIKDhxJ-azZowQby1tJ9o-k_Vsh72BCCRTu_YU/edit?tab=t.0)
+[Members Managing Document](https://docs.google.com/document/d/1dWdjA4xGRYG7SnRga2GyC9wFmkC64npIvnQQYizD2NQ/edit?tab=t.0)
